@@ -12,7 +12,7 @@ const Hero = () => {
   const handleResumeDownload = () => {
     // Create a temporary link element to trigger download
     const link = document.createElement('a');
-    link.href = '/resume.pdf'; // This would be your actual resume file path
+    link.href = '/Portfolio/resume.pdf'; // This would be your actual resume file path
     link.download = 'Jeevanasree_Avanaganti_Resume.pdf';
     document.body.appendChild(link);
     link.click();

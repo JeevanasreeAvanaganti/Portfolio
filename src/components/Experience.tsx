@@ -28,7 +28,7 @@ const Experience = () => {
       title: 'Data Engineer & Power Automate Specialist',
       company: 'Florida Department of Health',
       location: 'Tallahassee, FL',
-      period: 'Current Position',
+      period: 'March 2025 - Present',
       description: 'Leading data engineering initiatives and automation projects to streamline healthcare data processes and improve operational efficiency.',
       highlights: [
         'Designed and implemented automated data pipelines for health monitoring systems',
@@ -42,7 +42,7 @@ const Experience = () => {
       title: 'Software Developer & BI Analyst',
       company: 'Tata Consultancy Services',
       location: 'India',
-      period: 'Previous Role',
+      period: 'May 2021 - November 2023',
       description: 'Contributed to large-scale software development projects and business intelligence solutions for enterprise clients across multiple industries.',
       highlights: [
         'Developed full-stack applications using modern technologies and frameworks',

@@ -73,7 +73,7 @@ const Contact = () => {
                   </div>
                   <div>
                     <p className="font-medium text-gray-800 group-hover:text-blue-600 transition-colors duration-200">Email</p>
-                    <p className="text-gray-600">jeevanasree.avanaganti@email.com</p>
+                    <p className="text-gray-600">Jeevanasreeavanaganti7@gmail.com</p>
                   </div>
                 </div>
 
@@ -92,7 +92,7 @@ const Contact = () => {
                     <Linkedin className="text-white" size={20} />
                   </div>
                   <div>
-                    <p className="font-medium text-gray-800 group-hover:text-blue-600 transition-colors duration-200">LinkedIn</p>
+                    <p className="font-medium text-gray-800 group-hover:text-blue-600 transition-colors duration-200"><a href='https://www.linkedin.com/in/jeevanasree-avanaganti/' target='_blank'>LinkedIn</a></p>
                     <p className="text-gray-600">Connect professionally</p>
                   </div>
                 </div>

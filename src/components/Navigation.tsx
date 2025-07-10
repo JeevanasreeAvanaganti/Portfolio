@@ -5,6 +5,7 @@ import { Menu, X, Sun, Moon } from 'lucide-react';
 interface NavigationProps {
   activeSection: string;
 }
+document.documentElement.classList.toggle('dark');
 
 const Navigation: React.FC<NavigationProps> = ({ activeSection }) => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
